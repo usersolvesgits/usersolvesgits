@@ -51,3 +51,9 @@ I participated together with a group of four other members on a project that wil
 - 💡 **Software development**  
 - 🌳 **Scouting (Scout group)** – I’ve been practicing it for 5 years, during which I’ve carried out service activities in animal shelters, kitchens and canteens as a cook’s assistant, as well as city cleaning services. Over the years, I’ve developed technical skills and basic medical knowledge through first aid activities.
   
+---
+
+## 📬 Contacts
+
+Feel free to reach me out at:
+- **Email:** francesco.bianchini08@gmail.com
