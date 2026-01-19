@@ -25,14 +25,16 @@ I’m currently attending a **Technical Institute with a specialization in Compu
 
 ## 📌 Featured projects
 
-### 🔧 Ongoing
+### ✅ Finished
 
 #### 🔹 EasyEdit
 A lightweight and minimalist text editor built with WPF and C#.  
 **Technologies**: C#, WPF  
 
-#### 🔹 PyPic
-A simple photo editor built with Python.  
+### 🔧 Ongoing
+
+#### 🔹 NewCV
+An open-source project that helps users create professional Europass-style CVs.  
 **Technologies**: Python  
 
 ---
@@ -42,7 +44,7 @@ A simple photo editor built with Python.
 ### 💻 Youth Hacking 4 Freedom (YH4F) 2026
 “**Youth Hacking 4 Freedom**” is a programming competition organized by the **FSFE (Free Software Foundation Europe)** aimed at European teenagers aged 14 to 18. Participants create an open-source project starting from a personal idea.
 
-I participated together with a group of four other members on a project that will soon be available on my GitHub.
+I participated together with a group of four other members on [this project](https://github.com/usersolvesgits/Youth-Hacking-4-Freedom).
 
 ---
 
@@ -56,4 +58,4 @@ I participated together with a group of four other members on a project that wil
 ## 📬 Contacts
 
 Feel free to reach me out at:
-- **Email:** francesco.bianchini08@gmail.com
+- :email: **Email:** francesco.bianchini08@gmail.com
